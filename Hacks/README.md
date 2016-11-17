@@ -8,7 +8,7 @@ Remember to keep the hacks you propose simple and goal-oriented as time is alway
 
 Rules of a hackathon:
 
-1. Add your project ideas to the project proposal hackpad before we start<p>
+1. Add your project ideas to the project proposal hackpad before we start
 2. At the beginning of the hackathon, everyone who proposed a hack gets a couple of minutes to stand up and "advertise" their project to the rest of the participants
 3. Each project should have a very clear, achievable goal 
 4. Groups are self-organising, where people interested in the same project work together. You can work on more than one hack, but try not to spread yourself too thin! 
