@@ -7,6 +7,7 @@ What's the idea? A good project or hack is a simple problem with a clear goal on
 Remember to keep the hacks you propose simple and goal-oriented as time is always limited. Good hacks include: creating tutorials, outlining a theoretical solution to a problem to be later implemented and very short research projects.  The idea is to make rapid progress on a small, bite-sized problem and to make use of the expertise of people attending the school. 
 
 Rules of a hackathon:
+
 1. Add your project ideas to the project proposal hackpad before we start
 2. At the beginning of the hackathon, everyone who proposed a hack gets a couple of minutes to stand up and "advertise" their project to the rest of the participants
 3. Each project should have a very clear, achievable goal 
