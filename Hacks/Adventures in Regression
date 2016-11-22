@@ -1,0 +1,11 @@
+This hack has two independent parts that can be tackled either separately or together: 
+
+* Explore Bayesian regression for fitting data with y-errors (the usual case) and with some data points for which there are 
+only upper/lower limits (survival analysis). In the case of linear regression are there simple formulae for the best fits? 
+
+* Imagine data for which the y values are know (with some known error bars) but the x-values have a probability distribution 
+which is multi-modal. The limit of this is when the pdf for the x-data is made of a sum of Dirac delta functions. For linear regression 
+are there elegant analytical functions that generalise the usual formulae? 
+
+Bruce
+
